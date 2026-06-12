@@ -2564,7 +2564,9 @@
     "inlineResult": {
       "taskId": "Task #{{id}}",
       "submitted": "Submitted"
-    }
+    },
+    "execute": "Run {{tool}}",
+    "executeDefault": "Run tool"
   },
   "preview": {
     "error": {
